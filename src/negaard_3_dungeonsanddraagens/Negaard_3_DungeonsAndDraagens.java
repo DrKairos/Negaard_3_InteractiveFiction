@@ -224,29 +224,4 @@ System.out.println("Why did you press start then?");
 
 
 
-    
-
-
-
-
-
-
-
-//You gain 500 gold and 100 XP! Level up! (Level 2)
-//End of Dungeon 1
-
-//static boolean goodAnswer = false;
-//public static void start(){
-//while(!goodAnswer);
-//System.out.println("Do you want to play a game?");
-//answer = eli.nextline().toLowerCase();
-//static boolean goodAnswer;
-//if(answer.contains("y")){
-//goodAnswer = true;
-//System.out.println("Great, let's go!);
-//} else if(answer.contains("n"));
-//goodAnswer = true;
-//System.out.println("Bye!");
-//} else {
-//System.out.println("I don't understand.");
-//}
+  
